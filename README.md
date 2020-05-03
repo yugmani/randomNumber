@@ -1,7 +1,7 @@
 # randomNumber
 ## File
 
-* [`random-number`](Unsolved/randomnumber.html)
+* [`random-number`](randomnumber.html)
 
 ### Instructions
 
